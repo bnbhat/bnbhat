@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 6D pose estimation and anomaly detection in the assembly process<br>👯 I’m looking to collaborate on Computer Vision related projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ML and Deep learning<br>💬 Ask me about the raspberry pi and Arduino.<br>⚡ Fun fact: I'm always up for crazy projects with a lot of bugs :) 
+🔭 I’m currently working on 6D pose estimation and anomaly detection in the assembly process<br>👯 I’m looking to collaborate on Computer Vision related projects<br>🤝 I’m looking for help with ROS<br>🌱 I’m currently learning ML and Deep learning<br>💬 Ask me about the raspberry pi and Arduino.<br>⚡ Fun fact: I'm always up for crazy projects with a lot of bugs :) 
 
 
 ## 🌐 Socials:
