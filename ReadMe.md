@@ -37,6 +37,7 @@ Link: [ACM](https://dl.acm.org/doi/10.1145/3610978.3640732)
 <a href="https://twitter.com/balachandra311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balachandra311" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bnbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bnbhat" height="30" width="40" /></a>
 <a href="https://medium.com/@bnbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bnbhat" height="30" width="40" /></a>
+<a href="https://dev.to/bnbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bnbhat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
