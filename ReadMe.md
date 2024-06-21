@@ -27,6 +27,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Publications
+Towards a Path Planning and Communication Framework for Seamless Human-Robot Assembly  
+HRI '24: Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction   
+Link: [ACM](https://dl.acm.org/doi/10.1145/3610978.3640732)  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/balachandra311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balachandra311" height="30" width="40" /></a>
