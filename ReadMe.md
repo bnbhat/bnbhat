@@ -23,8 +23,9 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- How to Fix the Button Click Issue on Your Logitech MX Master 3S. [Link](https://medium.com/@bnbhat/how-to-fix-the-button-click-issue-on-your-logitech-mx-master-3s-df68228047b9)
 <!-- BLOG-POST-LIST:END -->
 
 ### Publications
