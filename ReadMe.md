@@ -15,11 +15,10 @@
 
 - 🤝 I’m looking for help with **linux kernel development**
 
-- 💬 Ask me about **ROS2, Jetson Linux,**
+- 💬 Ask me about **ROS2**
 
 - 📫 How to reach me **bnbhat311@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/bnbhat/bnbhat/blob/main/Balchandra_Bhat_CV.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
