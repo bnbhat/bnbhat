@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balachandra Bhat</h1>
 <h3 align="center">A passionate robotics software developer committed to developing and deploying scalable robotic systems.</h3>
 
-<img src="https://visitcount.itsvg.in/api?id=bnbhat&icon=0&color=0" alt="Visit Count" />
+<!-- <img src="https://visitcount.itsvg.in/api?id=bnbhat&icon=0&color=0" alt="Visit Count" /> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnbhat&label=Profile%20views&color=0e75b6&style=flat" alt="bnbhat" /> </p> -->
 
