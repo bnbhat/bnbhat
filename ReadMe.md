@@ -34,7 +34,7 @@ Link: [ACM](https://dl.acm.org/doi/10.1145/3610978.3640732)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnbhat&show_icons=true&locale=en&layout=compact" alt="bnbhat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnbhat&show_icons=true&locale=en" alt="bnbhat" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnbhat&show_icons=true&locale=en" alt="bnbhat" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnbhat&" alt="bnbhat" /></p>
 
