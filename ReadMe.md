@@ -20,7 +20,7 @@
 ### 180 days of code
 I am committed to a 180-day coding challenge that involves coding daily and contributing to open-source projects. This initiative is about continuous learning and pushing myself to expand my technical abilities.
 #### Current Progress
-- **Day 16/180**
+- **Day 27/180**
 - **Latest Update:** Working with Yocto.
 
 ### Blog posts
