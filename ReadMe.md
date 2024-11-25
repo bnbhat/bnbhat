@@ -7,20 +7,18 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bnbhat" alt="bnbhat" /></a> </p> -->
 
-- 🔭 I’m currently working on **full-stack mobile robotics**
+- 🔭 **Currently working on**: [AutomatePro](https://lemvos.com/automatepro/), a ROS 2 native robotic controller based on Nvidia Jetson based robotic controller tailored for outdoor mobile robotics applications.
 
-- 🌱 I’m currently learning **React** (just for fun)
+- 🌍 **Exploring**: Yocto and Buildroot for building custom embedded Linux systems.
 
-- 👯 I’m looking to collaborate on **fleet management / remote control stack**
+- 🤝 **Collaborate with me**: If you're into embedded Linux and its applications in robotics, let's connect!
 
-- 💬 Ask me about **ROS2, Nvidia Jetson Platform**
-
-- 📫 How to reach me **bnbhat311@gmail.com**
+- 💬 **Ask me about** ROS 2, Linux, Nvidia Jetson Platform
 
 ### 180 days of code
 I am committed to a 180-day coding challenge that involves coding daily and contributing to open-source projects. This initiative is about continuous learning and pushing myself to expand my technical abilities.
 #### Current Progress
-- **Day 27/180**
+- **Day 29/180**
 - **Latest Update:** Working with Yocto.
 
 ### Blog posts
