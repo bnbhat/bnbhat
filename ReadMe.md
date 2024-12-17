@@ -18,8 +18,10 @@
 ### 180 days of code
 I am committed to a 180-day coding challenge that involves coding daily and contributing to open-source projects. This initiative is about continuous learning and pushing myself to expand my technical abilities.
 #### Current Progress
-- **Day 30/180**
-- **Latest Update:** Working with Yocto.
+- **Day 32/180**
+- **Latest Update:** Working with Jetson Linux for Jetson Orin SOMs.
+
+I was on leave for two weeks for an important family event in India. Now I am back to work.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
