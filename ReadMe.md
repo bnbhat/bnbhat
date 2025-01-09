@@ -26,6 +26,8 @@ I was on leave for two weeks for an important family event in India. Now I am ba
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - How to Fix the Button Click Issue on Your Logitech MX Master 3S. [Link](https://medium.com/@bnbhat/how-to-fix-the-button-click-issue-on-your-logitech-mx-master-3s-df68228047b9)
+- Hacking Smitch Smart Switch: Breathing New Life into a Bricked Device[Link](https://bnbhat.medium.com/hacking-smitch-smart-switch-breathing-new-life-into-a-bricked-device-61a35741587c)
+- Your Own WireGuard VPN Server on AWS [Link](https://bnbhat.com/blog/wiregaurd-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ### Publications
