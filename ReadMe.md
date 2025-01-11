@@ -21,8 +21,6 @@ I am committed to a 180-day coding challenge that involves coding daily and cont
 - **Day 56/180**
 - **Latest Update:** working on calibration feature to BNO08X IMU driver.
 
-I was on leave for two weeks for an important family event in India. Now I am back to work.
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - How to Fix the Button Click Issue on Your Logitech MX Master 3S. [Link](https://medium.com/@bnbhat/how-to-fix-the-button-click-issue-on-your-logitech-mx-master-3s-df68228047b9)
