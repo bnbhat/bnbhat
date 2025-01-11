@@ -18,8 +18,8 @@
 ### 180 days of code
 I am committed to a 180-day coding challenge that involves coding daily and contributing to open-source projects. This initiative is about continuous learning and pushing myself to expand my technical abilities.
 #### Current Progress
-- **Day 32/180**
-- **Latest Update:** Working with Jetson Linux for Jetson Orin SOMs.
+- **Day 56/180**
+- **Latest Update:** working on calibration feature to BNO08X IMU driver.
 
 I was on leave for two weeks for an important family event in India. Now I am back to work.
 
