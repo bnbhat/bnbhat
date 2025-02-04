@@ -15,12 +15,6 @@
 
 - 💬 **Ask me about** ROS 2, Linux, Nvidia Jetson Platform
 
-### 180 days of code
-I am committed to a 180-day coding challenge that involves coding daily and contributing to open-source projects. This initiative is about continuous learning and pushing myself to expand my technical abilities.
-#### Current Progress
-- **Day 56/180**
-- **Latest Update:** working on calibration feature to BNO08X IMU driver.
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - How to Fix the Button Click Issue on Your Logitech MX Master 3S. [Link](https://medium.com/@bnbhat/how-to-fix-the-button-click-issue-on-your-logitech-mx-master-3s-df68228047b9)
