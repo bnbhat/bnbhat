@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balachandra Bhat</h1>
-<h3 align="center">A passionate robotics software developer committed to developing and deploying scalable robotic systems.</h3>
+<h3 align="center">Ubuntu developer and Linux enthusiast focused on system software, platform enablement, and scalable robotic and embedded systems.</h3>
 
 <!-- <img src="https://visitcount.itsvg.in/api?id=bnbhat&icon=0&color=0" alt="Visit Count" /> -->
 
@@ -7,13 +7,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bnbhat" alt="bnbhat" /></a> </p> -->
 
-- 🔭 **Currently working on**: [AutomatePro](https://lemvos.com/automatepro/), a ROS 2 native robotic controller based on Nvidia Jetson based robotic controller tailored for outdoor mobile robotics applications.
+- 🔭 **Currently working on**:  working at Canonical on Ubuntu and ARM64 platform enablement.
 
-- 🌍 **Exploring**: Yocto and Buildroot for building custom embedded Linux systems.
+- 🌍 **Exploring**: Yocto, Buildroot, kernel bring-up, and embedded Linux tooling for edge devices.
 
-- 🤝 **Collaborate with me**: If you're into embedded Linux and its applications in robotics, let's connect!
+- ⚙️ **Homelabbing**: building and maintaining home lab setups — networking, virtualization, and self-hosted services.
 
-- 💬 **Ask me about** ROS 2, Linux, Nvidia Jetson Platform
+- 🤝 **Collaborate with me**: If you're into embedded Linux, platform porting, or robotics, let's connect.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
