@@ -1,5 +1,3 @@
-# Balachandra Bhat
-
 Software engineer at **Canonical**, working on Ubuntu and ARM64 platform enablement. I spend my time across the Linux kernel and userspace.
 Outside of work, I'm into self-hosting, hardware hacking, and reverse engineering.
 
